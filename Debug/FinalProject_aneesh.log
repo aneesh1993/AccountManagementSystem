@@ -1,0 +1,9 @@
+﻿  Stock_Account_aneesh.cpp
+c:\users\anees\documents\visual studio 2015\projects\finalproject_aneesh\stock_account_aneesh.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Node_aneesh.cpp
+  Main_aneesh.cpp
+  LinkedList_aneesh.cpp
+  Bank_Account_aneesh.cpp
+  Account_aneesh.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'libmx.lib'

@@ -1,0 +1,16 @@
+Event Symbol Number PricePerShare($) TotalValue($) Time      
+Buy   MSFT   10     30.62            306.2         14:52:18  
+Buy   YHOO   60     15.38            922.8         14:52:53  
+Buy   DELL   40     14.29            571.6         14:53:21  
+Buy   GOOG   7      569.964          3989.75       14:53:36  
+Sell  GOOG   7      568.964          3982.75       14:53:59  
+Buy   GOOG   3      569.964          1709.89       14:54:9   
+Buy   YHOO   1      16.38            16.38         14:56:3   
+Sell  YHOO   50     15.38            769           14:56:8   
+Buy   SLB    10     64.34            643.4         14:13:54  
+Sell  DELL   27     16.29            439.83        14:15:5   
+Buy   KSS    20     52.96            1059.2        14:15:24  
+Buy   HPQ    50     21.04            1052          14:16:27  
+Buy   MSFT   10     29.62            296.2         15:12:24  
+Sell  GOOG   1      568.964          568.964       15:13:42  
+Sell  MSFT   10     29.62            296.2         15:14:21  
